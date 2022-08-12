@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXFyVmRWGTxpeWA70x7263RCESTioWLG93AnvPPlPziqs93K522m0WKf1+s6ZT8rpymA/x0uBGKQCsTLBDzxFA==",
+  "success": true,
+  "projectFilePath": "C:\\Yamini\\yam\\Learn\\KafkaProducerApp\\KafkaConsumerApp\\KafkaConsumerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dkodaman\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
+    "C:\\Users\\dkodaman\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\dkodaman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\dkodaman\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
